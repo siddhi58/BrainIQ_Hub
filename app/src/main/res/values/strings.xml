@@ -1,0 +1,21 @@
+<resources>
+    <string name="Quiz_name">Choose Your Assessment</string>
+    <string name="start_btn">Start Your Assessment</string>
+    <string name="submit_btn">Submit</string>
+    <string name="Result">Result</string>
+    <string name="label">label</string>
+    <string name="category">Category</string>
+    <string name="meaning">meaning</string>
+    <string name="IQ_card">IQ Test</string>
+    <string name="EQ_card">EQ Test</string>
+    <string name="Social_card">Social Intelligence Test</string>
+    <string name="Brain_card">Brain Type Test</string>
+    <string name="history_btn">View History</string>
+    <string name="test_history">Test History</string>
+    <string name="btn_delete">Delete</string>
+    <string name="title_text">Discover Your Mind’s Potential</string>
+    <string name="emoji">🧠</string>
+    <string name="subtitle">Comprehensive assessments for cognitive abilities</string>
+    <string name="app_name">BrainIQ Hub</string>
+
+</resources>

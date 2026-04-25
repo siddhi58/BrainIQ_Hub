@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#FFFFFF</color>
+    <color name="text">#2D2D45</color>
+    <color name="title_bg">#C5A595</color>
+    <color name="button_color">#919683</color>
+    <color name="cardview_col">#FFFFFF</color>
+</resources>

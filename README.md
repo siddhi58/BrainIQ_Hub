@@ -20,7 +20,7 @@ A modern Android application designed to test four core dimensions of intelligen
 
 ### ✦ Key Features
 
-- 🧠 Multi-Dimensional Assessment: Four different tests that check your IQ, EQ, Social Skills, and Brain Type.
+-🧠 Multi-Dimensional Assessment: Four different tests that check your IQ, EQ, Social Skills, and Brain Type.
 
 -📊 Custom Analytics Engine: Special code that looks at your answer patterns to give a smart score, instead of just simple right or wrong points.
 

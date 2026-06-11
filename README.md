@@ -41,8 +41,11 @@ History tracking was a late addition. Midway through testing I realized there wa
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ✦ What I'd improve next
+
 -Swap hardcoded questions for a Room database
+
 -Add a share result feature
+
 -Dark mode
 
 --------------------------------------------------------------------------------------------------------------------------------------

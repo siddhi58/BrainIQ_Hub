@@ -31,8 +31,9 @@ bashgit clone https://github.com/siddhi58/BrainIQ_Hub.git
 Open in Android Studio → let Gradle sync → hit Run. Needs API 21+.
 
 -----------------------------------------------------------------------------------------------------------------------------------
-✦ What I learned building this
-Honestly, the most enjoyable part was building the UI — getting the animations right, making buttons feel responsive, and seeing the CardView layouts actually come together on screen. There's something satisfying about a transition that just feels smooth.
+✦ What I learned building this 
+
+-Honestly, the most enjoyable part was building the UI — getting the animations right, making buttons feel responsive, and seeing the CardView layouts actually come together on screen. There's something satisfying about a transition that just feels smooth.
 
 The scoring logic was another highlight. EQ and IQ don't work the same way — emotional intelligence isn't about correct answers, it's about patterns. Designing two separate systems that both felt fair took more thinking than I expected, and I enjoyed every bit of it.
 
@@ -40,9 +41,10 @@ History tracking was a late addition. Midway through testing I realized there wa
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ✦ What I'd improve next
-Swap hardcoded questions for a Room database
-Add a share result feature
-Dark mode
+-Swap hardcoded questions for a Room database
+-Add a share result feature
+-Dark mode
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Siddhi Bidkar · LinkedIn · GitHub · siddhibidkar04@gmail.com

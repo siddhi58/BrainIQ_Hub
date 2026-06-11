@@ -1,53 +1,65 @@
-✦BrainIQ Hub 🧠
+# BrainIQ Hub 🧠
 
-A quiz app that tests four dimensions of intelligence — IQ, EQ, Social Intelligence, and Brain Type — 
-and tells you what your score actually means.
+A modern Android application designed to test four core dimensions of intelligence—IQ, EQ, Social Intelligence, and Brain Type—featuring custom dynamic scoring logic and an intuitive dashboard.
 
-------------------------------------------------------------------------------------------------------------------------------
-✦ Screenshots
+---
 
+### 📱 Application Previews
 
+> 💡 **Tip for Siddhi:** Drag and drop your screenshots directly into the spaces below inside the GitHub editor!
 
+| Main Menu & Quiz Selection | Interactive Test Interface | Comprehensive Results |
+| :---: | :---: | :---: |
+| [DROP SCREENSHOT 1 HERE] | [DROP SCREENSHOT 2 HERE] | [DROP SCREENSHOT 3 HERE] |
 
-------------------------------------------------------------------------------------------------------------------------------
-✦ Features
+| Score History Tracker | Detailed Analytics |
+| :---: | :---: |
+| [DROP SCREENSHOT 4 HERE] | [DROP SCREENSHOT 5 HERE] |
 
--4 quiz categories — IQ, EQ, Social Intelligence, Brain Type
--Each category has its own unique scoring logic (not just right/wrong)
--Result screen explains what your score means in plain language
--Quiz history saved locally — track your scores over time
--Smooth screen transitions and card-based UI
+---
 
----------------------------------------------------------------------------------------------------------------------------------
- ✦Tech
+### ✦ Key Features
 
-Kotlin · XML · CardView · SharedPreferences · Intents · Android Studio
+- **🧠 Multi-Dimensional Assessment: Four different tests that check your IQ, EQ, Social Skills, and Brain Type.
+📊 Custom Analytics Engine: Special code that looks at your answer patterns to give a smart score, instead of just simple right or wrong points.
+⏱️ Score History Tracking: The app saves your past scores on your phone so you can see how much you improve over time.
+🎨 Modern Material UI: Clean and nice-looking screens that use cards and move smoothly when you use them.
 
-----------------------------------------------------------------------------------------------------------------------------------
-✦Run it
+---
 
-bashgit clone https://github.com/siddhi58/BrainIQ_Hub.git
+### 🛠️ Tech Stack & Architecture
 
-Open in Android Studio → let Gradle sync → hit Run. Needs API 21+.
+- **Language:** Kotlin (100%)
+- **Architecture Flow:** Component Intents utilizing granular Bundle data structures.
+- **Local Storage:** SharedPreferences (Local Score History Serialization)
+- **UI Architecture:** XML Layouts, CardView Frameworks, animation buttons 
 
------------------------------------------------------------------------------------------------------------------------------------
-✦ What I learned building this 
+---
 
--Honestly, the most enjoyable part was building the UI — getting the animations right, making buttons feel responsive, and seeing the CardView layouts actually come together on screen. There's something satisfying about a transition that just feels smooth.
+### 🚀 Getting Started
 
-The scoring logic was another highlight. EQ and IQ don't work the same way — emotional intelligence isn't about correct answers, it's about patterns. Designing two separate systems that both felt fair took more thinking than I expected, and I enjoyed every bit of it.
+```bash
+git clone https://github.com
+```
+1. Import the project into **Android Studio**.
+2. Let Gradle synchronize successfully.
+3. Deploy onto an active Android emulator or physical device (Target API 21+).
 
-History tracking was a late addition. Midway through testing I realized there was no way to look back at past scores, so I wired it up with SharedPreferences. It was a small feature but it made the app feel genuinely complete.
+---
 
--------------------------------------------------------------------------------------------------------------------------------------
-✦ What I'd improve next
+### 💡 Engineering Journey & Lessons Learned
 
--Swap hardcoded questions for a Room database
+Building BrainIQ Hub allowed me to dive deep into custom data architectures and layout animations. The most rewarding challenge was designing the scoring engines; because EQ and IQ operate on entirely different metrics, I engineered two independent evaluation pipelines to process the distinct input patterns accurately. 
 
--Add a share result feature
+Additionally, recognized mid-development that users needed historical validation, I integrated a local storage tracking layer via SharedPreferences to cleanly serialize and persist user score arrays.
 
--Dark mode
+---
 
---------------------------------------------------------------------------------------------------------------------------------------
+### 🔮 Future Roadmap
+- Database Upgrade: Change from SharedPreferences to Room Database to save user scores better.
+- Dark Mode: Add a setting to switch the app background between light and dark themes.
+---
 
-Siddhi Bidkar · LinkedIn · GitHub · siddhibidkar04@gmail.com
+### 🤝 Connect with Me
+Siddhi Bidkar • [LinkedIn](https://linkedin.com) • [GitHub](https://github.com/siddhi58) • siddhibidkar04@gmail.com
+

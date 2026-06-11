@@ -1,4 +1,5 @@
-BrainIQ Hub 
+✦BrainIQ Hub 🧠
+
 A quiz app that tests four dimensions of intelligence — IQ, EQ, Social Intelligence, and Brain Type — 
 and tells you what your score actually means.
 

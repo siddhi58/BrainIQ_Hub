@@ -21,9 +21,9 @@ A modern Android application designed to test four core dimensions of intelligen
 ### ✦ Key Features
 
 - **🧠 Multi-Dimensional Assessment: Four different tests that check your IQ, EQ, Social Skills, and Brain Type.
-📊 Custom Analytics Engine: Special code that looks at your answer patterns to give a smart score, instead of just simple right or wrong points.
-⏱️ Score History Tracking: The app saves your past scores on your phone so you can see how much you improve over time.
-🎨 Modern Material UI: Clean and nice-looking screens that use cards and move smoothly when you use them.
+-📊 Custom Analytics Engine: Special code that looks at your answer patterns to give a smart score, instead of just simple right or wrong points.
+-⏱️ Score History Tracking: The app saves your past scores on your phone so you can see how much you improve over time.
+-🎨 Modern Material UI: Clean and nice-looking screens that use cards and move smoothly when you use them.
 
 ---
 
@@ -47,11 +47,14 @@ git clone https://github.com
 
 ---
 
-### 💡 Engineering Journey & Lessons Learned
+### 💡 What I learned building this 
 
-Building BrainIQ Hub allowed me to dive deep into custom data architectures and layout animations. The most rewarding challenge was designing the scoring engines; because EQ and IQ operate on entirely different metrics, I engineered two independent evaluation pipelines to process the distinct input patterns accurately. 
+-Honestly, the most enjoyable part was building the UI — getting the animations right, making buttons feel responsive, and seeing the CardView layouts actually come together on screen. There's something satisfying about a transition that just feels smooth.
 
-Additionally, recognized mid-development that users needed historical validation, I integrated a local storage tracking layer via SharedPreferences to cleanly serialize and persist user score arrays.
+The scoring logic was another highlight. EQ and IQ don't work the same way — emotional intelligence isn't about correct answers, it's about patterns. Designing two separate systems that both felt fair took more thinking than I expected, and I enjoyed every bit of it.
+
+History tracking was a late addition. Midway through testing I realized there was no way to look back at past scores, so I wired it up 
+with SharedPreferences. It was a small feature but it made the app feel genuinely complete.
 
 ---
 

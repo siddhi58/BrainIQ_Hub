@@ -21,8 +21,11 @@ A modern Android application designed to test four core dimensions of intelligen
 ### ✦ Key Features
 
 - **🧠 Multi-Dimensional Assessment: Four different tests that check your IQ, EQ, Social Skills, and Brain Type.
+
 -📊 Custom Analytics Engine: Special code that looks at your answer patterns to give a smart score, instead of just simple right or wrong points.
+
 -⏱️ Score History Tracking: The app saves your past scores on your phone so you can see how much you improve over time.
+
 -🎨 Modern Material UI: Clean and nice-looking screens that use cards and move smoothly when you use them.
 
 ---

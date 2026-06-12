@@ -6,15 +6,7 @@ A modern Android application designed to test four core dimensions of intelligen
 
 ### 📱 Application Previews
 
-> 💡 **Tip for Siddhi:** Drag and drop your screenshots directly into the spaces below inside the GitHub editor!
 
-| Main Menu & Quiz Selection | Interactive Test Interface | Comprehensive Results |
-| :---: | :---: | :---: |
-| [DROP SCREENSHOT 1 HERE] | [DROP SCREENSHOT 2 HERE] | [DROP SCREENSHOT 3 HERE] |
-
-| Score History Tracker | Detailed Analytics |
-| :---: | :---: |
-| [DROP SCREENSHOT 4 HERE] | [DROP SCREENSHOT 5 HERE] |
 
 ---
 

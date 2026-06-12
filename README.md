@@ -6,11 +6,15 @@ A modern Android application designed to test four core dimensions of intelligen
 
 ### 📱 Application Previews
 
-(
 
-https://github.com/user-attachments/assets/9884eb8c-52ab-4fe2-b6ba-7e0a7570a04a
 
-)
+
+
+https://github.com/user-attachments/assets/e88306f7-c389-4aa3-a2a9-b30b315004fe
+
+
+
+
 
 ---
 
